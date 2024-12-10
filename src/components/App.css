@@ -1,0 +1,29 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: #03fd46;
+  list-style: none;
+  text-decoration-color: #03fd46;
+  background: lightcyan;
+  text-decoration: none;
+}
+.Link-header {
+  display: flex;
+  flex-direction: row;
+
+  gap: 25px;
+  color: beige;
+  background-color: rgb(172, 249, 255);
+  font-size: 32px;
+}
+.Ul-li {
+  display: flex;
+  flex-direction: column;
+  justify-self: start;
+  color: blue;
+  list-style-type: georgian;
+}
