@@ -6,17 +6,13 @@
   align-items: center;
   font-size: 40px;
   color: #03fd46;
-  list-style: none;
-  text-decoration-color: #03fd46;
   background: lightcyan;
-  text-decoration: none;
 }
-.Link-header {
+.Link-header a {
   display: flex;
-  flex-direction: row;
-
-  gap: 25px;
-  color: beige;
+  flex-direction: column;
+  text-decoration: none;
+  color: rgb(111, 111, 4);
   background-color: rgb(172, 249, 255);
   font-size: 32px;
 }
